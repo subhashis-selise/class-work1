@@ -1,0 +1,48 @@
+.main
+{
+	height: 400px;
+	width: 80%;
+	margin:10%;
+}
+.fstdiv
+{
+	height: 150px;
+	width: 80%;
+}
+.scnddiv
+{
+	padding-top: 15%; 
+	height: 150px;
+	width: 80%;
+	display: hidden;
+}
+.middiv
+{
+	height: 25px;
+    width: 80%;
+    margin-left: 20%;
+}
+.fst
+{
+	height: 150px;
+    width: 45%;
+    float: left;
+    padding-right: 5%;
+}
+.scnd
+{
+	height: 150px;
+	width: 45%;
+	float: left;
+}
+.frth
+{
+	height: 150px;
+	width: 30%;
+	float: left;
+}
+.fifth
+{
+	height: 150px;
+	width: 30%;
+}
